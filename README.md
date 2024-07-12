@@ -1,5 +1,5 @@
 # Wikizim
-Simple converter for .zmi files to .xml dump for MediaWiki Database.
+Simple converter for .zim files to .xml dump for MediaWiki Database.
 
 [...Not working rn...] <br>
 [...In work...]
